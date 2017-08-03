@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+}
+
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+
+.main-header {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+
+
+
+
+#footer ul {
+  background-color: gray;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
