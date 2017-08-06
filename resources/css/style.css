@@ -43,9 +43,6 @@ a:active {
   text-align: center;
 }
 
-#copyright {
-  color: white;
-}
 
 #mini-header {
   color: white;
@@ -60,5 +57,9 @@ a:active {
   margin: 0px;
   text-align: left;
   vertical-align:bottom;
+}
 
+
+#copyright {
+  color: white;
 }
